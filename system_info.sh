@@ -14,3 +14,4 @@ free -h
 echo "Disk Usage (/):"
 df -h /
 
+
